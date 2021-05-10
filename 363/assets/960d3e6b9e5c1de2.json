@@ -1,0 +1,115 @@
+﻿{"frames": {
+
+"Bitmap 11":
+{
+	"frame": {"x":2,"y":2,"w":650,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":382},
+	"sourceSize": {"w":650,"h":382}
+},
+"Bitmap 12":
+{
+	"frame": {"x":2,"y":386,"w":656,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":656,"h":3},
+	"sourceSize": {"w":656,"h":3}
+},
+"Bitmap 9":
+{
+	"frame": {"x":660,"y":386,"w":112,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":99},
+	"sourceSize": {"w":112,"h":99}
+},
+"circle_1":
+{
+	"frame": {"x":774,"y":386,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"circle_2":
+{
+	"frame": {"x":826,"y":386,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"front_disk.png":
+{
+	"frame": {"x":2,"y":487,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"hitArea":
+{
+	"frame": {"x":154,"y":487,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"pole.png":
+{
+	"frame": {"x":206,"y":487,"w":30,"h":614},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":614},
+	"sourceSize": {"w":30,"h":614}
+},
+"pole.png copy":
+{
+	"frame": {"x":238,"y":487,"w":30,"h":965},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":965},
+	"sourceSize": {"w":30,"h":965}
+},
+"second_qc.png":
+{
+	"frame": {"x":270,"y":487,"w":105,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":160},
+	"sourceSize": {"w":105,"h":160}
+},
+"top_house.png":
+{
+	"frame": {"x":377,"y":487,"w":291,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":54},
+	"sourceSize": {"w":291,"h":54}
+},
+"带有金属圆片的木条_qc.png":
+{
+	"frame": {"x":670,"y":487,"w":323,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":323,"h":43},
+	"sourceSize": {"w":323,"h":43}
+},
+"秒表_qc.png":
+{
+	"frame": {"x":2,"y":1454,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"960d3e6b9e5c1de2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

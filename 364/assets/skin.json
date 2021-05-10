@@ -1,0 +1,19 @@
+{"frames": {
+
+"nb.backBtn":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.217",
+	"image": "skin.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

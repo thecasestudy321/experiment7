@@ -1,0 +1,91 @@
+{"frames": {
+
+"Bitmap 1 copy 2":
+{
+	"frame": {"x":2,"y":2,"w":1292,"h":688},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1292,"h":688},
+	"sourceSize": {"w":1292,"h":688}
+},
+"Bitmap 3 copy":
+{
+	"frame": {"x":1296,"y":2,"w":331,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":151},
+	"sourceSize": {"w":331,"h":151}
+},
+"Bitmap 6":
+{
+	"frame": {"x":1629,"y":2,"w":331,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":149},
+	"sourceSize": {"w":331,"h":149}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":692,"w":202,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":198},
+	"sourceSize": {"w":202,"h":198}
+},
+"Bitmap 8":
+{
+	"frame": {"x":206,"y":692,"w":202,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":198},
+	"sourceSize": {"w":202,"h":198}
+},
+"Clock_dial.png":
+{
+	"frame": {"x":410,"y":692,"w":161,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":161},
+	"sourceSize": {"w":161,"h":161}
+},
+"Pointer.png":
+{
+	"frame": {"x":573,"y":692,"w":27,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":99},
+	"sourceSize": {"w":27,"h":99}
+},
+"timeline_bcircle_11":
+{
+	"frame": {"x":602,"y":692,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bcircle_21":
+{
+	"frame": {"x":654,"y":692,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bhitArea1":
+{
+	"frame": {"x":706,"y":692,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.1.0.349",
+	"image":"fcd8345eafd410f9.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
